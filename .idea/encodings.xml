@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Code1/MemoryPart_GlobalArea.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code1/MemoryPart_StackArea.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code2/Ref_demo3.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code2/Ref_demo4.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code2/Ref_demo5.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code2/Ref_demo6.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code3/FuncPro_demo1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code3/FuncPro_demo3.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code3/FuncPro_demo4.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4/Class_demo1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4/Class_demo2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4/Class_demo3.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4/Class_demo6.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4/Class_demo7.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4/Class_demo8.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4_CirclePoint/Circle.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4_CirclePoint/Circle.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4_CirclePoint/CircleAndPoint.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4_CirclePoint/Point.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code4_CirclePoint/Point.h" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo3.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo5.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo6.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo7.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code5/Object_demo8.cpp" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/Code6/Const_func.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code6/This_demo1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code6/This_demo2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code6/This_demo3.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code7/Key_friend_demo1.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code7/Key_friend_demo2.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Code7/Key_friend_demo3.cpp" charset="GBK" />
+  </component>
+</project>
