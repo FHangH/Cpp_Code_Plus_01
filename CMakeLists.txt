@@ -50,4 +50,5 @@ set(CMAKE_CXX_STANDARD 14)
 #add_executable(Code7_2 Code7/Key_friend_demo2.cpp)
 #add_executable(Code7_3 Code7/Key_friend_demo3.cpp)
 
-#add_executable(Code8_1 Code8/OperatorOverload_demo1.cpp)
+#add_executable(Code8_1 Code8/OperatorOverload_Add.cpp)
+add_executable(Code8_2 Code8/OperatorOverload_ShiftLeft.cpp)
