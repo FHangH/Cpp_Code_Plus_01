@@ -17,8 +17,8 @@
 					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Code8_7">
-				<Option output="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Code8_7.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="Code9_4">
+				<Option output="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Code9_4.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -32,14 +32,14 @@
 					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Code8_7"/>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Code9_4"/>
 					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Code8_7/fast">
-				<Option output="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Code8_7.exe" prefix_auto="0" extension_auto="0"/>
+			<Target title="Code9_4/fast">
+				<Option output="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Code9_4.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -53,7 +53,7 @@
 					<Add directory="d:\developmenttool\mingw\mingw\bin\../lib/gcc/x86_64-w64-mingw32/9.2.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Code8_7/fast"/>
+					<Build command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 Code9_4/fast"/>
 					<CompileFile command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="D:/DevelopmentTool/MinGW/MinGW/bin/mingw32-make.exe -f &quot;D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -80,8 +80,8 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/Code8/OperatorOverload_Transfer.cpp">
-			<Option target="Code8_7"/>
+		<Unit filename="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/Code9/Inherit_DealWithSameName.cpp">
+			<Option target="Code9_4"/>
 		</Unit>
 		<Unit filename="D:/Learn/Cpp/3_Cpp_plus_Clion/CodeDemo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
